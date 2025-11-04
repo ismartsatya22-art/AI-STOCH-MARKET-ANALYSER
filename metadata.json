@@ -1,0 +1,5 @@
+{
+  "name": "AI Stock Market Research Agent",
+  "description": "An autonomous agent that analyzes stocks and produces detailed financial research reports, including market data, news sentiment, technical analysis, risk assessment, and recommendations.",
+  "requestFramePermissions": []
+}
